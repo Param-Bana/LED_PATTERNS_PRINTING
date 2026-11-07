@@ -125,14 +125,14 @@ STM32-Bare-Metal-GPIO/
 │
 ├── Core/
 │   └── Src/
-│       └── main.c
+│       └── main.ino
 │
 ├── diagram.json
 │
 └── README.md
 ```
 
-The `main.c` file contains GPIO initialization, LED control functions, delay routines and sequencing patterns.
+The `main.ino` file contains GPIO initialization, LED control functions, delay routines and sequencing patterns.
 
 The `diagram.json` file contains the Wokwi circuit configuration.
 
